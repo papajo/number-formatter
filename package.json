@@ -1,0 +1,26 @@
+{
+  "name": "number-formatter",
+  "version": "0.0.1",
+  "description": "number formatter",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "engines": {
+    "node": ">=0.12.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/papajo/number-formatter.git"
+  },
+  "author": "P Joshi <joshipv2@gmail.com> (http://www.askpj.net)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/papajo/number-formatter/issues"
+  },
+  "homepage": "https://github.com/papajo/number-formatter#readme",
+  "devDependencies": {
+    "chai": "^3.1.0",
+    "mocha": "^2.2.5"
+  }
+}
